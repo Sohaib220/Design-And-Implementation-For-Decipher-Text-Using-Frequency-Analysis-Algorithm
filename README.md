@@ -28,7 +28,7 @@ This project is a **C# Windows Forms Application** that provides a comprehensive
 
 ---
 
-![](images/frequency-number-detection.png)
+![](images/frequency-percentege-interface.png)
 
 
 ---
