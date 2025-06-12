@@ -11,11 +11,25 @@ This project is a **C# Windows Forms Application** that provides a comprehensive
 
 ## 📸 Screenshots
 
-> To include screenshots of the application GUI and analysis features, save them in a folder called `images/` and reference them like this:
 
-```markdown
-![Main Interface](images/main-interface.jpg)
-![Brute Force Result](images/brute-force.jpg)
+![](images/main-interface.png)
+
+---
+
+![](images/caesar-interface.png)
+
+---
+
+![](images/change-the-letters-interface.png)
+
+---
+
+![](images/frequency-number-detection.png)
+
+---
+
+![](images/frequency-number-detection.png)
+
 
 ---
 
@@ -45,3 +59,13 @@ This tool supports encryption, decryption, brute-force attacks, and frequency an
 - 💻 User-friendly Windows Forms interface
 - 📋 Multiple cipher methods in one integrated environment
 - 🗃️ Export decrypted results for external analysis
+
+---
+
+This project is my Graduation project so i wish you like it.
+Don't forgit to give me a ⭐ on this project if you liked it.
+
+
+
+
+
